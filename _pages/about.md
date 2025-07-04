@@ -31,7 +31,7 @@ GFlowNets, Math for AI
 Publications
 ======
 
-**α-GFN: Generalizing GFlowNets via Markov Chains for Better Forward and Backward Mixing** 
+[$\alpha$-GFN: Generalizing GFlowNets via Markov Chains for Better Forward and Backward Mixing](1)
 *Lin Chen*\*, Samuel Drapeau\*, Fanghao Shao, Xuekai Zhu, Bo Xue, Yunchong Song, Mathieu Lauriere, Zhouhan Lin.
 In Submission
 
