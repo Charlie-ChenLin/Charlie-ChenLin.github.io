@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<script>
+<!-- <script>
 MathJax = {
   options: {
     skipHtmlTags: {'[+]': ['markdown']} // 避免干扰 Markdown 语法
@@ -18,7 +18,7 @@ MathJax = {
   }
 };
 </script>
-<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" async></script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" async></script> -->
 
 
 About me
@@ -35,7 +35,7 @@ GFlowNets, Math for AI
 Publications
 ======
 
-$\alpha$**-GFN: Generalizing GFlowNets via Markov Chains for Better Forward and Backward Mixing**
+**$\alpha$-GFN: Generalizing GFlowNets via Markov Chains for Better Forward and Backward Mixing**
 *Lin Chen*\*, Samuel Drapeau\*, Fanghao Shao, Xuekai Zhu, Bo Xue, Yunchong Song, Mathieu Lauriere, Zhouhan Lin.
 In Submission
 
