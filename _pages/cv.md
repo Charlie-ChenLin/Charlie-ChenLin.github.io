@@ -18,21 +18,21 @@ Education
 
 Work experience
 ======
-* LUMIA Lab, Shanghai Jiao Tong University<div style="text-align: right;">Sept. 2024 - Present</div>
-  * Research Assistant 
-  * Supervisor: Prof. Zhouhan Lin
+* Sept. 2024 - Present: LUMIA Lab, Shanghai Jiao Tong University
+  - Research Assistant 
+  - Supervisor: Prof. Zhouhan Lin
 
-* Trexquant <div style="text-align: right;"> Jan. 2025</div> 
-    * Global Alpha Researcher
+* Jan. 2025 - Jan. 2025: Trexquant
+  - Global Alpha Researcher
 
-*  Ubiquant <div style="text-align: right;"> Sept. 2024 - Dec. 2024</div> 
-    * Quantitative Developer Internship, Risk Team
+* Sept. 2024 - Dec. 2024: Ubiquant
+  - Quantitative Developer Internship, Risk Team
 
-* Shanghai Xuanling Asset Management Co., Ltd. <div style="text-align: right;"> Apr. 2024 - Jul. 2024</div> 
-  * Quantitative Research Internship
+* Apr. 2024 - Jul. 2024: Shanghai Xuanling Asset Management Co., Ltd. 
+  - Quantitative Research Internship
 
-* QSQ Capital Limited <div style="text-align: right;"> 2024.9 - 2024.12</div> Jul. 2023 - Jan. 2024 </div>
-  * Quantitative Research Assistant
+* Jul. 2023 - Jan. 2024: QSQ Capital
+  - Quantitative Research Assistant
   
 Skills
 ======
@@ -41,5 +41,5 @@ Skills
 
 Service and leadership
 ======
-* Principal Double Bass, SJTU Student Symphony Orchestra<div style="text-align: right;">Sept.2021 - Sept. 2024</div>
-* Co-founder & Minister of Academic Affairs, SJTU Quanalysis Association <div style="text-align: right;"> Sept.2023 - June 2025 </div>
+* Sept.2021 - Sept. 2024: Principal Double Bass, SJTU Student Symphony Orchestra
+* Sept.2023 - June 2025: Co-founder & Minister of Academic Affairs, SJTU Quanalysis Association
