@@ -42,4 +42,4 @@ Skills
 Service and leadership
 ======
 * Principal Double Bass, SJTU Student Symphony Orchestra<div style="text-align: right;">Sept.2021 - Sept. 2024</div>
-* Co-founder & Minister of Academic Affairs, SJTU Quanalysis Association <div style="text-align: right;">Sept.2023 - June 2025</div>
+* Co-founder & Minister of Academic Affairs, SJTU Quanalysis Association $\hfill$ Sept.2023 - June 2025
