@@ -23,10 +23,10 @@ Work experience
   * Supervisor: Prof. Zhouhan Lin
 
 * Trexquant <div style="text-align: right;"> Jan. 2025</div> 
-  * Global Alpha Researcher
+    * Global Alpha Researcher
 
 *  Ubiquant <div style="text-align: right;"> Sept. 2024 - Dec. 2024</div> 
-  * Quantitative Developer Internship, Risk Team
+    * Quantitative Developer Internship, Risk Team
 
 * Shanghai Xuanling Asset Management Co., Ltd. <div style="text-align: right;"> Apr. 2024 - Jul. 2024</div> 
   * Quantitative Research Internship
