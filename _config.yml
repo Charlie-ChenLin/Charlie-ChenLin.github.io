@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Lin Chen / Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Lin Chen"
 description              : &description "Welcome to Lin Chen's Homepage!"
