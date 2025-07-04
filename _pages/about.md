@@ -7,11 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-
 <script>
 MathJax = {
+  options: {
+    skipHtmlTags: {'[+]': ['markdown']} // 避免干扰 Markdown 语法
+  },
   tex: {
-    inlineMath: [['$', '$'], ['\\(', '\\)']]
+    inlineMath: [['$', '$'], ['\\(', '\\)']], // 仅允许 $...$ 和 \(...\)
+    processEscapes: true // 允许 \ 转义
   }
 };
 </script>
