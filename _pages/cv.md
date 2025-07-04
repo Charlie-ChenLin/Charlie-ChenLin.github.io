@@ -16,10 +16,10 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Sept. 2024 - Present: Research Assistant
+  * LUMIA Lab, Shanghai Jiao Tong University
+  * Duties includes: Conducting research on the mathematical theory and applications of GFlowNets.
+  * Supervisor: Prof. Zhouhan Lin
 
 * Fall 2015: Research Assistant
   * GitHub University
@@ -46,7 +46,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -56,7 +56,7 @@ Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
