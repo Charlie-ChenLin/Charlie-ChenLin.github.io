@@ -21,10 +21,9 @@ Work experience
   * Duties includes: Conducting research on the mathematical theory and applications of GFlowNets.
   * Supervisor: Prof. Zhouhan Lin
 
-* Fall 2015: Research Assistant
-  * GitHub University
+* Sept. 2024 - Dec. 2024: Quantitative Developer
+  * Ubiquant
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
 * Summer 2015: Research Assistant
   * GitHub University
