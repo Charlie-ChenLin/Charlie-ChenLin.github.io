@@ -7,18 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-<!-- <script>
+<script>
 MathJax = {
-  options: {
-    skipHtmlTags: {'[+]': ['markdown']} // 避免干扰 Markdown 语法
-  },
   tex: {
-    inlineMath: [['$', '$'], ['\\(', '\\)']], // 仅允许 $...$ 和 \(...\)
-    processEscapes: true // 允许 \ 转义
+    inlineMath: [['$', '$'], ['\\(', '\\)']]
   }
 };
 </script>
-<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" async></script> -->
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" async></script>
 
 
 About me
