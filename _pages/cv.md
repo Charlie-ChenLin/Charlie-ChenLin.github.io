@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
 Please refer to the [Chinese version](../files/CV_Chinese.pdf) or the English version of my curriculum vitae for more information.
 
@@ -42,4 +42,4 @@ Skills
 Service and leadership
 ======
 * Principal Double Bass, SJTU Student Symphony Orchestra<div style="text-align: right;">Sept.2021 - Sept. 2024</div>
-* Co-founder & Minister of Academic Affairs, SJTU Quanalysis Association $\hfill$ Sept.2023 - June 2025
+* Co-founder & Minister of Academic Affairs, SJTU Quanalysis Association <div style="text-align: right;"> Sept.2023 - June 2025 </div>
