@@ -20,7 +20,7 @@ MathJax = {
 About me
 =====
 
-<!-- I am Lin Chen(陈霖, English name: Charlie), a candidate of the Master in Applied Statistics Program in [School of Management](https://www.fdsm.fudan.edu.cn/en/) at Fudan University. Currently, I'm an research assistant in Prof. [Zhouhan Lin](https://hantek.github.io/)'s group at Shanghai Jiao Tong University. I just receive my bachelor's degree in Statistics in [School of Mathematical Sciences](https://www.math.sjtu.edu.cn/Default/index) at Shanghai Jiao Tong University, where I worked with Prof. [Samuel Drapeau](https://www.samuel-drapeau.info/) and Prof. [Yiqing Lin](https://www.math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKIdpc). I also co-worked with Prof. [Mathieu Laurière](https://mlauriere.github.io/) at [NYU Shanghai](https://shanghai.nyu.edu/).  -->
+I am Lin Chen(陈霖, English name: Charlie), a candidate of the Master in Applied Statistics Program in [School of Management](https://www.fdsm.fudan.edu.cn/en/) at Fudan University. Currently, I'm an research assistant in Prof. [Zhouhan Lin](https://hantek.github.io/)'s group at Shanghai Jiao Tong University. I just receive my bachelor's degree in Statistics in [School of Mathematical Sciences](https://www.math.sjtu.edu.cn/Default/index) at Shanghai Jiao Tong University, where I worked with Prof. [Samuel Drapeau](https://www.samuel-drapeau.info/) and Prof. [Yiqing Lin](https://www.math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKIdpc). I also co-worked with Prof. [Mathieu Laurière](https://mlauriere.github.io/) at [NYU Shanghai](https://shanghai.nyu.edu/). 
 
 
 
