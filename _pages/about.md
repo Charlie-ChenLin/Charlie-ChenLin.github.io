@@ -25,7 +25,7 @@ I am Lin Chen(陈霖, English name: Charlie), a candidate of the Master in Appli
 
 ## Research Interest
 
-GFlowNets, Math for AI
+My interest lies in intergrating mathematical/statistical knowledge into current machine learning models and algorithms, such as GFlowNets and large language models. I'm particularly intersted in how new insights from the math/stat community can improve the reasoning ability and memory of models.
 
 ## Publications
 
