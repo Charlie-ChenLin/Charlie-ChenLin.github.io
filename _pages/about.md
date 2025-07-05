@@ -34,7 +34,7 @@ GFlowNets, Math for AI
 In Submission  
 
 **Flow of Spans: Generalizing Language Models to Dynamic Span-Vocabulary via GFlowNets**  
-Bo Xue, Yunchong Song, Xuekai Zhu, *Lin Chen*, Fanghao Shao, Luoyi Fu, Xinbing Wang, Zhouhan Lin
+Bo Xue, Yunchong Song, Xuekai Zhu, *Lin Chen*, Fanghao Shao, Luoyi Fu, Xinbing Wang, Zhouhan Lin  
 In Submission
 
 
