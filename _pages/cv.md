@@ -51,6 +51,7 @@ Please refer to the [Chinese version](../files/CV_Chinese.pdf) or the English ve
   - Merit Student, Shanghai Jiao Tong University
   - Outstanding Graduate, Shanghai Jiao Tong University
   - Outstanding Undergraduate Thesis, School of Mathematical Sciences, Shanghai Jiao Tong University
+
 * 2024
   - Master of Science in Data Science and Business Analytics offer, School of Management, Fudan University
   - Ph.D. in Statistics offer (rank 2/26 among all candidates), School of Mathematical Sciences, Shanghai Jiao Tong University
