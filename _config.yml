@@ -22,7 +22,7 @@ repository               : "Charlie-ChenLin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Lin Chen"
   pronouns         : "he/him"  
   bio              : "B.S. in Stats, SJTU & M.S. in Applied Stats, FDU"
