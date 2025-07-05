@@ -52,9 +52,9 @@ Please refer to the [Chinese version](../files/CV_Chinese.pdf) or the English ve
   - Outstanding Graduate, Shanghai Jiao Tong University
   - Outstanding Undergraduate Thesis, School of Mathematical Sciences, Shanghai Jiao Tong University
 * 2024
-  - Master of Financial Engineering offer (with full scholarship), School of Management, Fudan University
   - Master of Science in Data Science and Business Analytics offer, School of Management, Fudan University
   - Ph.D. in Statistics offer (rank 2/26 among all candidates), School of Mathematical Sciences, Shanghai Jiao Tong University
+  - Master of Financial Engineering offer (with full scholarship), School of Management, Fudan University
 
 * 2023
   - Honorable Mention, Mathematical Contest in Modeling (MCM), COMAP
