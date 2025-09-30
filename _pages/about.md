@@ -25,7 +25,7 @@ I am Lin Chen (Chinese name: 陈霖, English name: Charlie) at the Master of App
 
 ## Research Interest
 
-My interest lies in the application of mathematical/statistical theories to current machine learning models and algorithms, such as GFlowNets and large language models. I'm particularly intersted in how insights from the math/stat community can improve the reasoning ability and memory of large language models. I'm also interested in developing statistical tests to protect the intellectual property of LLMs. 
+My research interest lies in the application of mathematical/statistical theories to current machine learning models and algorithms, such as GFlowNets and large language models. I'm particularly interested in how insights from the math/stat community can improve the reasoning ability and memory of large language models. I'm also interested in developing statistical tests to protect the intellectual property of LLMs. 
 
 ## Publications
 
