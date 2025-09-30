@@ -30,14 +30,14 @@ My interest lies in the application of mathematical/statistical theories to curr
 ## Publications
 
 **$\alpha$-GFN: Generalized Mixing in GFlowNets for Better Exploration-Exploitation Trade-off**  
-*Lin Chen*\*, Samuel Drapeau\*, Fanghao Shao, Xuekai Zhu, Bo Xue, Yunchong Song, Mathieu Lauriere, Zhouhan Lin  
+*Lin Chen*\*, Samuel Drapeau\*, Fanghao Shao, Xuekai Zhu, Bo Xue, Yunchong Song, Mathieu Laurière, Zhouhan Lin  
 In Submission
 
-**AWM: Accurate Weight-Matrix Fingerprint for Large Language Models**
+**AWM: Accurate Weight-Matrix Fingerprint for Large Language Models**  
 Boyi Zeng\*, *Lin Chen*\*, Ziwei He, Xinbing Wang, Zhouhan Lin  
 In Submission
 
-**FlowRL: Matching Reward Distributions for LLM Reasoning** [[Arxiv](https://arxiv.org/abs/2509.15207)][[Github](https://github.com/Xuekai-Zhu/FlowRL)][[Huggingface](https://huggingface.co/papers/2509.15207)]
+**FlowRL: Matching Reward Distributions for LLM Reasoning** [[Arxiv](https://arxiv.org/abs/2509.15207)][[Github](https://github.com/Xuekai-Zhu/FlowRL)][[Huggingface](https://huggingface.co/papers/2509.15207)]  
 Xuekai Zhu, Daixuan Cheng, Dinghuai Zhang, Hengli Li, Kaiyang Zhang, Che Jiang, Youbang Sun, Ermo Hua, Yuxin Zuo, Xingtai Lv, Qizheng Zhang, *Lin Chen*, Fanghao Shao, Bo Xue, Yunchong Song, Zhenjie Yang, Ganqu Cui, Ning Ding, Jianfeng Gao, Xiaodong Liu, Bowen Zhou, Hongyuan Mei, Zhouhan Lin   
 In Submission
 
