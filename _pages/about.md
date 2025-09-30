@@ -37,7 +37,7 @@ In Submission
 Boyi Zeng\*, *Lin Chen*\*, Ziwei He, Xinbing Wang, Zhouhan Lin  
 In Submission
 
-**FlowRL: Matching Reward Distributions for LLM Reasoning** [[Arxiv](https://arxiv.org/abs/2509.15207)][[Github](https://github.com/Xuekai-Zhu/FlowRL)][[Huggingface](https://huggingface.co/papers/2509.15207)]  
+**FlowRL: Matching Reward Distributions for LLM Reasoning** [[arXiv](https://arxiv.org/abs/2509.15207)][[GitHub](https://github.com/Xuekai-Zhu/FlowRL)][[HuggingFace](https://huggingface.co/papers/2509.15207)]  
 Xuekai Zhu, Daixuan Cheng, Dinghuai Zhang, Hengli Li, Kaiyang Zhang, Che Jiang, Youbang Sun, Ermo Hua, Yuxin Zuo, Xingtai Lv, Qizheng Zhang, *Lin Chen*, Fanghao Shao, Bo Xue, Yunchong Song, Zhenjie Yang, Ganqu Cui, Ning Ding, Jianfeng Gao, Xiaodong Liu, Bowen Zhou, Hongyuan Mei, Zhouhan Lin   
 In Submission
 
