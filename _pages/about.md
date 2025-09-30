@@ -33,7 +33,7 @@ My interest lies in the application of mathematical/statistical theories to curr
 *Lin Chen*\*, Samuel Drapeau\*, Fanghao Shao, Xuekai Zhu, Bo Xue, Yunchong Song, Mathieu Laurière, Zhouhan Lin  
 In Submission
 
-**AWM: Accurate Weight-Matrix Fingerprint for Large Language Models**  
+**AWM: Accurate Weight-Matrix Fingerprint for Large Language Models**    
 Boyi Zeng\*, *Lin Chen*\*, Ziwei He, Xinbing Wang, Zhouhan Lin  
 In Submission
 
