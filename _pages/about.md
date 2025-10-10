@@ -19,7 +19,7 @@ MathJax = {
 
 ## About me
 
-I am Lin Chen (Chinese name: 陈霖, English name: Charlie) at the Master of Applied Statistics program in [School of Management, Fudan University](https://www.fdsm.fudan.edu.cn/en/). Currently, I'm a research assistant in Prof. [Zhouhan Lin](https://hantek.github.io/)'s group at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) and a research intern in [Jie Fu](https://bigaidream.github.io/)'s group in [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/) I just received my bachelor's degree in Statistics at [School of Mathematical Sciences, Shanghai Jiao Tong University](https://www.math.sjtu.edu.cn/Default/index), where I work closely with Prof. [Samuel Drapeau](https://www.samuel-drapeau.info/) and Prof. [Yiqing Lin](https://www.math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKIdpc). I also collaborate with Prof. [Mathieu Laurière](https://mlauriere.github.io/) at [NYU Shanghai](https://shanghai.nyu.edu/). 
+I am Lin Chen (Chinese name: 陈霖, English name: Charlie) at the Master of Applied Statistics program in [School of Management, Fudan University](https://www.fdsm.fudan.edu.cn/en/). Currently, I'm a research assistant in Prof. [Zhouhan Lin](https://hantek.github.io/)'s group at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) and a research intern in Dr. [Jie Fu](https://bigaidream.github.io/)'s group in [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/) I just received my bachelor's degree in Statistics at [School of Mathematical Sciences, Shanghai Jiao Tong University](https://www.math.sjtu.edu.cn/Default/index), where I work closely with Prof. [Samuel Drapeau](https://www.samuel-drapeau.info/). I also collaborate with Prof. [Mathieu Laurière](https://mlauriere.github.io/) at [NYU Shanghai](https://shanghai.nyu.edu/). 
 
 
 
@@ -44,8 +44,3 @@ In Submission
 **Flow of Spans: Generalizing Language Models to Dynamic Span-Vocabulary via GFlowNets**  
 Bo Xue, Yunchong Song, Fanghao Shao, Xuekai Zhu, *Lin Chen*, Luoyi Fu, Xinbing Wang, Zhouhan Lin  
 In Submission
-
-
-
-
-
