@@ -20,7 +20,7 @@ redirect_from:
 ## Experience
 * Aug. 2025 - Present: **Shanghai Artifitial Intelligence Laboratory**
   - Research Intern
-  - Supervisor: [Jie Fu](https://bigaidream.github.io/)
+  - Supervisor: Dr. [Jie Fu](https://bigaidream.github.io/)
 
 * Sep. 2024 - Present: **LUMIA Lab, Shanghai Jiao Tong University**
   - Research Assistant 
