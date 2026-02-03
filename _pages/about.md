@@ -28,7 +28,7 @@ My research interest lies in the application of mathematical/statistical theorie
 
 ## Publications
 
-**Controlling Exploration–Exploitation in GFlowNets via Markov Chain Perspectives**  
+**Controlling Exploration–Exploitation in GFlowNets via Markov Chain Perspectives** [[arXiv](https://arxiv.org/abs/2602.01749)]  
 *Lin Chen*\*, Samuel Drapeau\*, Fanghao Shao, Xuekai Zhu, Bo Xue, Yunchong Song, Mathieu Laurière, Zhouhan Lin  
 In Submission
 
