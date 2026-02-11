@@ -43,3 +43,6 @@ ICLR 2026
 **Flow of Spans: Generalizing Language Models to Dynamic Span-Vocabulary via GFlowNets** [[OpenReview](https://openreview.net/forum?id=i5Yfc5RY9q)][[GitHub](https://github.com/sappho-x/Flow-of-Spans)]  
 Bo Xue, Yunchong Song, Fanghao Shao, Xuekai Zhu, *<u>Lin Chen</u>*, Luoyi Fu, Xinbing Wang, Zhouhan Lin  
 ICLR 2026
+
+
+\* Equal contribution
