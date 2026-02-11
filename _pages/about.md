@@ -29,17 +29,17 @@ My research interest lies in the application of mathematical/statistical theorie
 ## Publications
 
 **Controlling Exploration–Exploitation in GFlowNets via Markov Chain Perspectives** [[arXiv](https://arxiv.org/abs/2602.01749)]  
-*Lin Chen*\*, Samuel Drapeau\*, Fanghao Shao, Xuekai Zhu, Bo Xue, Yunchong Song, Mathieu Laurière, Zhouhan Lin  
+*<u>Lin Chen</u>*\*, Samuel Drapeau\*, Fanghao Shao, Xuekai Zhu, Bo Xue, Yunchong Song, Mathieu Laurière, Zhouhan Lin  
 In Submission
 
 **AWM: Accurate Weight-Matrix Fingerprint for Large Language Models** [[arXiv](https://arxiv.org/abs/2510.06738)][[GitHub](https://github.com/LUMIA-Group/AWM)]  
-Boyi Zeng\*, *Lin Chen*\*, Ziwei He, Xinbing Wang, Zhouhan Lin  
+Boyi Zeng\*, *<u>Lin Chen</u>*\*, Ziwei He, Xinbing Wang, Zhouhan Lin  
 ICLR 2026
 
 **FlowRL: Matching Reward Distributions for LLM Reasoning** [[arXiv](https://arxiv.org/abs/2509.15207)][[GitHub](https://github.com/Xuekai-Zhu/FlowRL)][[HuggingFace](https://huggingface.co/papers/2509.15207)]  
-Xuekai Zhu, Daixuan Cheng, Dinghuai Zhang, Hengli Li, Kaiyang Zhang, Che Jiang, Youbang Sun, Ermo Hua, Yuxin Zuo, Xingtai Lv, Qizheng Zhang, *Lin Chen*, Fanghao Shao, Bo Xue, Yunchong Song, Zhenjie Yang, Ganqu Cui, Ning Ding, Jianfeng Gao, Xiaodong Liu, Bowen Zhou, Hongyuan Mei, Zhouhan Lin   
+Xuekai Zhu, Daixuan Cheng, Dinghuai Zhang, Hengli Li, Kaiyang Zhang, Che Jiang, Youbang Sun, Ermo Hua, Yuxin Zuo, Xingtai Lv, Qizheng Zhang, *<u>Lin Chen</u>*, Fanghao Shao, Bo Xue, Yunchong Song, Zhenjie Yang, Ganqu Cui, Ning Ding, Jianfeng Gao, Xiaodong Liu, Bowen Zhou, Hongyuan Mei, Zhouhan Lin   
 ICLR 2026
 
 **Flow of Spans: Generalizing Language Models to Dynamic Span-Vocabulary via GFlowNets** [[OpenReview](https://openreview.net/forum?id=i5Yfc5RY9q)][[GitHub](https://github.com/sappho-x/Flow-of-Spans)]  
-Bo Xue, Yunchong Song, Fanghao Shao, Xuekai Zhu, *Lin Chen*, Luoyi Fu, Xinbing Wang, Zhouhan Lin  
+Bo Xue, Yunchong Song, Fanghao Shao, Xuekai Zhu, *<u>Lin Chen</u>*, Luoyi Fu, Xinbing Wang, Zhouhan Lin  
 ICLR 2026
