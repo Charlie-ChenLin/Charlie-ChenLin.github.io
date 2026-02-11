@@ -44,17 +44,8 @@
       {% if author.arxiv %}
         <li><a href="{{ author.arxiv }}"><i class="ai ai-arxiv ai-fw icon-pad-right"></i>arXiv</a></li>
       {% endif %}      
-      {% assign scholar_citations = site.data.scholar.citations | default: author.googlescholar_citations %}
       {% if author.googlescholar %}
-        <li>
-          <a href="{{ author.googlescholar }}">
-            <i class="ai ai-google-scholar ai-fw icon-pad-right"></i>
-            Google Scholar{% if scholar_citations %} (Citations: {{ scholar_citations }}){% endif %}
-            {% if scholar_citations %}
-              <img class="scholar-citation-badge-img" src="https://img.shields.io/badge/Citations-{{ scholar_citations }}-4285F4?logo=googlescholar&logoColor=white&style=flat" alt="Google Scholar citations: {{ scholar_citations }}" loading="lazy" />
-            {% endif %}
-          </a>
-        </li>
+        <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar ai-fw icon-pad-right"></i>Google Scholar</a></li>
       {% endif %}
       {% if author.semantic %}
         <li><a href="{{ author.semantic }}"><i class="ai ai-semantic-scholar ai-fw icon-pad-right"></i>Semantic Scholar</a></li>

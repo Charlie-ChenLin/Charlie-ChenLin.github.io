@@ -35,7 +35,6 @@ author:
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=UX1tE40AAAAJ"
-  googlescholar_citations : # optional fallback value, e.g. "1234"
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
