@@ -49,20 +49,4 @@ redirect_from:
 * Sep.2021 - Sep. 2024: **Principal Double Bass, SJTU Student Symphony Orchestra**
 * Sep.2023 - Sep. 2024: **Co-founder & Minister of Academic Affairs, SJTU Quanalysis Association**
 
-## Honors and awards
 
-* 2025
-  - Outstanding Graduate, Shanghai Jiao Tong University
-  - Outstanding Undergraduate Thesis, School of Mathematical Sciences, Shanghai Jiao Tong University
-
-* 2024
-  - Merit Student, Shanghai Jiao Tong University
-
-* 2023
-  - Honorable Mention, Mathematical Contest in Modeling (MCM), COMAP
-  - B-class Academic Excellence Scholarship, Shanghai Jiao Tong University
-
-* 2022
-  - President's Award (member, SJTU Student Symphony Orchestra), Shanghai Jiao Tong University
-  - Second Prize, SJTU Mathematical Modeling Contest, Shanghai Jiao Tong University
-  - B-class Academic Excellence Scholarship, Shanghai Jiao Tong University

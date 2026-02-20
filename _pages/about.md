@@ -19,7 +19,7 @@ MathJax = {
 
 ## About me
 
-I am Lin Chen (Chinese name: 陈霖, English name: Charlie) at the Master of Applied Statistics program in [School of Management, Fudan University](https://www.fdsm.fudan.edu.cn/en/). Currently, I'm a research assistant in Prof. [Zhouhan Lin](https://hantek.github.io/)'s group at Shanghai Jiao Tong University and an intern in Dr. [Wenqi Shao](https://wqshao126.github.io/) and Prof. [Xia Hu](https://cs.rice.edu/~xh37/index.html)'s group at Shanghai AI Laboratory. I just received my bachelor's degree in Statistics at School of Mathematical Sciences, Shanghai Jiao Tong University, where I work closely with Prof. [Samuel Drapeau](https://www.samuel-drapeau.info/) and Prof. [Yiqing Lin](https://scholar.google.com/citations?user=WcZ2pd0AAAAJ&hl=fr). I also collaborate closely with Prof. [Mathieu Laurière](https://mlauriere.github.io/) at NYU Shanghai. Previously, I've also interned in Dr. [Jie Fu](https://bigaidream.github.io/)'s group.
+I am Lin Chen (Chinese name: 陈霖, English name: Charlie) at the Master of Applied Statistics program in Fudan University. Currently, I'm a research assistant in Prof. [Zhouhan Lin](https://hantek.github.io/)'s group at Shanghai Jiao Tong University and an intern in Dr. [Wenqi Shao](https://wqshao126.github.io/) and Prof. [Xia Hu](https://cs.rice.edu/~xh37/index.html)'s group at Shanghai AI Laboratory. I just received my bachelor's degree in Statistics at School of Mathematical Sciences, Shanghai Jiao Tong University, where I work closely with Prof. [Samuel Drapeau](https://www.samuel-drapeau.info/) and Prof. [Yiqing Lin](https://scholar.google.com/citations?user=WcZ2pd0AAAAJ&hl=fr). I also collaborate closely with Prof. [Mathieu Laurière](https://mlauriere.github.io/) at NYU Shanghai. Previously, I've also interned in Dr. [Jie Fu](https://bigaidream.github.io/)'s group.
 
 I am seeking **PhD** opportunities for **Fall 2027**. My research interests include GFlowNets, Reinforcement Learning, LLM post-training, safety and fingerprinting. If you think my background matches your group, please contact me via this [email address](charliecl0526@gmail.com).
 ## Research Interest
@@ -46,3 +46,21 @@ ICLR 2026
 
 
 \* Equal contribution
+
+## Honors and awards
+
+* 2025
+  - Outstanding Graduate, Shanghai Jiao Tong University
+  - Outstanding Undergraduate Thesis, School of Mathematical Sciences, Shanghai Jiao Tong University
+
+* 2024
+  - Merit Student, Shanghai Jiao Tong University
+
+* 2023
+  - Honorable Mention, Mathematical Contest in Modeling (MCM), COMAP
+  - B-class Academic Excellence Scholarship, Shanghai Jiao Tong University
+
+* 2022
+  - President's Award (member, SJTU Student Symphony Orchestra), Shanghai Jiao Tong University
+  - Second Prize, SJTU Mathematical Modeling Contest, Shanghai Jiao Tong University
+  - B-class Academic Excellence Scholarship, Shanghai Jiao Tong University
