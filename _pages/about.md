@@ -25,7 +25,12 @@ I am seeking **PhD** opportunities for **Fall 2027** and **summer research inter
 
 ## Research Interest
 
-My research interest lies in the application of mathematical/statistical theories to current machine learning models and algorithms, such as GFlowNets and large language models. I'm particularly interested in how insights from the math/stat community can improve the reasoning ability and memory of large language models, with a focus on post-training of LLMs. I'm also interested in developing statistical tests to protect the intellectual property of LLMs. 
+My research interests lie at the intersection of mathematical and statistical theory and deep learning. I am particularly interested in leveraging these theoretical insights to advance deep learning algorithms. Specific areas include:
+
+- **GFlowNets**: theory and algorithms for probabilistic generative modeling
+- **LLM post-training**: enhancing the reasoning and memory of large language models
+- **LLM intellectual property protection**: developing statistical fingerprinting methods for LLMs
+- **AI for music**: a broader interest motivated by my [musical background](#misc)
 
 ## Publications
 
