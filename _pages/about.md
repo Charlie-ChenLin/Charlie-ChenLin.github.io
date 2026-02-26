@@ -21,7 +21,8 @@ MathJax = {
 
 I am Lin Chen (Chinese name: 陈霖, English name: Charlie) at the Master of Applied Statistics program in Fudan University. Currently, I'm a research assistant in Prof. [Zhouhan Lin](https://hantek.github.io/)'s group at Shanghai Jiao Tong University and an intern in Dr. [Wenqi Shao](https://wqshao126.github.io/) and Prof. [Xia Hu](https://cs.rice.edu/~xh37/index.html)'s group at Shanghai AI Laboratory. I just received my bachelor's degree in Statistics at School of Mathematical Sciences, Shanghai Jiao Tong University, where I work closely with Prof. [Samuel Drapeau](https://www.samuel-drapeau.info/) and Prof. [Yiqing Lin](https://scholar.google.com/citations?user=WcZ2pd0AAAAJ&hl=fr). I also collaborate closely with Prof. [Mathieu Laurière](https://mlauriere.github.io/) at NYU Shanghai. Previously, I've also interned in Dr. [Jie Fu](https://bigaidream.github.io/)'s group.
 
-I am seeking **PhD** opportunities for **Fall 2027**. My research interests include GFlowNets, Reinforcement Learning, LLM post-training, safety and fingerprinting. If you think my background matches your group, please contact me via this [email address](charliecl0526@gmail.com).
+I am seeking **PhD** opportunities for **Fall 2027** and **summer research internship** opportunities for **Summer 2026**. My research interests include GFlowNets, Reinforcement Learning, LLM post-training, safety and fingerprinting. I'm also quite interested in [AI for music](#misc). If you think my background matches your group, please contact me via this [email address](charliecl0526@gmail.com).
+
 ## Research Interest
 
 My research interest lies in the application of mathematical/statistical theories to current machine learning models and algorithms, such as GFlowNets and large language models. I'm particularly interested in how insights from the math/stat community can improve the reasoning ability and memory of large language models, with a focus on post-training of LLMs. I'm also interested in developing statistical tests to protect the intellectual property of LLMs. 
@@ -64,3 +65,14 @@ ICLR 2026
   - President's Award (member, SJTU Student Symphony Orchestra), Shanghai Jiao Tong University
   - Second Prize, SJTU Mathematical Modeling Contest, Shanghai Jiao Tong University
   - B-class Academic Excellence Scholarship, Shanghai Jiao Tong University
+
+## Misc
+
+Outside of research, I have a deep passion for music. Here are some highlights of my musical journey:
+
+- Started learning piano in kindergarten
+- Served as the piano accompanist for my middle school choir
+- Picked up the double bass in high school and became the principal bassist of my high school orchestra
+- Continued as the principal double bass in SJTU Student Symphony Orchestra throughout my undergraduate years, participating in numerous performances
+
+My favorite composer is Richard Wagner, with *Der Ring des Nibelungen* being my favorite. Music is a big part of who I am, and it naturally fuels my curiosity about AI for music.
